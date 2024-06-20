@@ -1,0 +1,47 @@
+
+h1{
+    font-size: 55px;
+    color: blueviolet;
+}
+
+table{
+    background-color: bisque;
+    font-style: oblique;
+    border-color: rgb(53, 10, 94);
+}
+
+.div1{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.div2{
+    background-color: azure;
+}
+
+.div3{
+    background-color: azure;
+    text-align: center;
+}
+
+.div4{
+    background-color: azure;
+    text-align: center;
+}
+
+#id1{
+    font-size: 15px;
+}
+
+a:link{
+    color: black;
+}
+
+a:hover{
+    color:brown;
+}
+
+div:hover{
+    background-color: rgb(201, 150, 40);
+    transition-duration: 5s;
+}
